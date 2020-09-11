@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<a href="WelcomeServlet">WelcomeServlet123</a>
+		<a href="WelcomeServlet">WelcomeServlet</a>
 		<form action="WelcomeServlet" method="post">
 			<input type="submit">
 		</form>
